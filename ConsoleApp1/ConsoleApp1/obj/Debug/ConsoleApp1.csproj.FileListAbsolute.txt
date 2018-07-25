@@ -1,0 +1,6 @@
+F:\Programming\gittest\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\Programming\gittest\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\Programming\gittest\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\Programming\gittest\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+F:\Programming\gittest\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\Programming\gittest\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
